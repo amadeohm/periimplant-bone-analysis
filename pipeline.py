@@ -1,5 +1,5 @@
 # ======================================================================
-#  Classical pipeline for peri-implant bone-level extraction
+#  Classical CV pipeline for peri-implant bone-level extraction
 #  Author: A. Huerta Moncho, 2025
 # ======================================================================
 
